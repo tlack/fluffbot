@@ -1,0 +1,17 @@
+
+BOT_KEY = ""
+
+BOT_NAME = "FluffNPuff"
+
+RESPOND_TO = ["Fluffbot", "Fluff"]
+
+BERT_MODEL = "distilbert-base-nli-stsb-mean-tokens"
+
+DEBUG = True
+
+MAX_DISTANCE = 360
+
+USER_AGENT = "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36"
+
+
+
